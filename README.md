@@ -8,6 +8,7 @@ I matlab: view -> hide code (for beste visning)
 **Screenshots:**  
 ![](ActualSpeedrun/Images/fAvFlereScreen.png)  
 
+![](ActualSpeedrun/Images/taylorScreen.png)
 
 ![](ActualSpeedrun/Images/complexScreen.png)  
 
