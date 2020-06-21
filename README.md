@@ -1,8 +1,7 @@
-## IMAT2011 Speedrun
+## NTNU IMAT
 
 Inneholder diverse live-scripts til Matlab.  
-Virker kun på Matlab 2020 og nyere.   
-Legg 'ActualSpeedrun'-mappen i C:\Users\Username\Documents\MATLAB  
+Virker kun pÃ¥ Matlab 2020 og nyere.     
 I matlab: view -> hide code (for beste visning)  
 
 **Screenshot:** 
