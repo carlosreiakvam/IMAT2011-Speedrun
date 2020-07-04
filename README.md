@@ -1,12 +1,10 @@
 ## NTNU IMAT
 
-Inneholder diverse live-scripts til Matlab.  
-Virker kun på Matlab 2020 og nyere.     
-I matlab: view -> hide code (for beste visning)  
+* Various Matlab livescripts for the curriculum of IMAT1001 and IMAT 2011 at NTNU, Norway.
+* Runs on Matlab 2020     
+* Matlab: view -> hide code
 
-**Screenshot:** 
 
-![](ActualSpeedrun/Images/taylorScreen.png)
 
 
 
